@@ -8,4 +8,5 @@ Hi Welcome My GitHub
 - 📫 How to reach me: i@nxx.email
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qiqizjl)](https://github.com/qiqizjl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiqizjl)](https://github.com/qiqizjl)
 
